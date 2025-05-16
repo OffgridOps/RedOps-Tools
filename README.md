@@ -1,6 +1,7 @@
 # RedTeam-Tools
 
->
+![freepik__the-style-is-candid-image-photography-with-natural__69500](https://github.com/user-attachments/assets/64ec283f-4277-447c-a795-fbdfb588f7dc)
+
 
 This github repository contains a collection of **150+** **tools** and **resources** that can be useful for **red teaming activities**. 
 
